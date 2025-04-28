@@ -254,7 +254,7 @@ const CONFIG = {
     },
   },
 
-  Optional Footer. Supports plain text or HTML.
+  // Optional Footer. Supports plain text or HTML.
    footer: `Made with <a 
        class="text-primary" href="https://github.com/AayushKumarSingh"
        target="_blank"
