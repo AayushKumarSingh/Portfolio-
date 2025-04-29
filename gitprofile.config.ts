@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'Speech to text translation using locally fine-tuned OpenAI-Whisper model',
           imageUrl:
-            'https://github.com/user-attachments/assets/a0c44812-8b65-4dec-94d2-944e0b998451',
+            'https://github.com/user-attachments/assets/af262275-2044-45d3-b74c-a70160ae8a1d',
           link: 'https://world-population-dashboard.vercel.app/',
         },
         {
@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'Recreation of popular 80\'s Game Space Invaders for the arcade using PyGame. Click to download pre-release executable of game',
           imageUrl:
-            'https://github.com/user-attachments/assets/a0c44812-8b65-4dec-94d2-944e0b998451',
+            'https://github.com/user-attachments/assets/f820627f-985a-4ee3-9e7d-997d15183b9c',
           link: 'https://github.com/AayushKumarSingh/SpaceInvader/releases/download/Game/Game.rar',
         },
       ],
