@@ -108,7 +108,7 @@ const CONFIG = {
     'Tensorflow',
     'MySQL',
     'MongoDB',
-    'Azure Cloud'
+    'Azure Cloud',
     'Git',
     'Docker',
     'CSS',
