@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'Analyze YouTube comments to find insights about video using Machine Learning Models',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/user-attachments/assets/7e8ceb44-9df3-4cca-b53b-8ed1908a2ce1',
           link: 'https://commentanalyzer-site.onrender.com/',
         },
         {
@@ -108,6 +108,7 @@ const CONFIG = {
     'Tensorflow',
     'MySQL',
     'MongoDB',
+    'Azure Cloud'
     'Git',
     'Docker',
     'CSS',
@@ -131,10 +132,16 @@ const CONFIG = {
   ],
   certifications: [
     {
+      name: 'Microsoft Certified: Azure AI Fundamentals',
+      body: 'Certifying agency: Microsoft',
+      year: 'June 2025',
+      link: 'https://learn.microsoft.com/api/credentials/share/en-us/AayushKumarSingh-8451/B95BCA4A77610C38?sharingId',
+    },
+    {
       name: 'IBM Data Science Professional Certification',
       body: 'Certifying agency: Coursera',
-      year: 'March 2022',
-      link: 'https://example.com',
+      year: 'July 2023',
+      link: 'https://www.credly.com/badges/5f8966df-8dbc-4dce-af18-5f11d7d267a4/linked_in_profile',
     },
   ],
   educations: [
@@ -259,7 +266,7 @@ const CONFIG = {
        class="text-primary" href="https://github.com/AayushKumarSingh"
        target="_blank"
        rel="noreferrer"
-     >❤️</a>`,
+     >❤️</a> and Creativity`,
 
   enablePWA: true,
 };
