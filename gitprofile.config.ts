@@ -54,7 +54,7 @@ const CONFIG = {
             'Speech to text translation using locally fine-tuned OpenAI-Whisper model',
           imageUrl:
             'https://github.com/user-attachments/assets/af262275-2044-45d3-b74c-a70160ae8a1d',
-          link: 'https://world-population-dashboard.vercel.app/',
+          link: ' https://drive.google.com/file/d/1x4FjekFvaiVcb03R1IUK3EANq3exuTjY/view?usp=drive_link',
         },
         {
           title: 'Space Invaders',
