@@ -33,6 +33,14 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
+          title: 'CodeSphere',
+          description:
+            'Coding platform to test your DSA knowledge, you can also add problems (currently supports only python)',
+          imageUrl:
+            'https://github.com/user-attachments/assets/6267fb60-2e25-41da-809f-5f7c65dcab09',
+          link: 'http://52.255.216.174/',
+        },
+        {
           title: 'Comment Analyzer',
           description:
             'Analyze YouTube comments to find insights about video using Machine Learning Models',
@@ -96,7 +104,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1tIbeU-7ec5V273b_MtvCJcCzf6OSwk8J/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1EIoKF3_YPnvsNvaEA3YyuWLxzmd4mLna/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
